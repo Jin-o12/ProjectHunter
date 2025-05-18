@@ -103,5 +103,6 @@ $RECYCLE.BIN/
 # GitHub의 파일 크기 제한 방지 (불필요한 패키지 제외)
 Packages/
 Library/PackageCache/
+Assets/Object/BOKI/
 
 # End of https://www.toptal.com/developers/gitignore/api/unity,windows
